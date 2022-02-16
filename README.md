@@ -1,5 +1,7 @@
 # Ejercicio de Netflix
 
+Aplicación para mostrar series, filtrarlas, mostrar series favoritas, crear perfiles de usuarias, modificar datos de las usuarias y cerrar sessión.
+
 ### Cómo arrancar el backend
 
 En la raíz del proyecto:
